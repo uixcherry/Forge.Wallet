@@ -2,7 +2,7 @@
 
 Плагин для передачи опыта между игроками в Unturned с использованием RocketMod.
 
-![version](https://img.shields.io/badge/версия-1.0.0-blue.svg)
+![version](https://img.shields.io/badge/версия-2.2.0-blue.svg)
 ![rocket](https://img.shields.io/badge/Rocket-4.9.3.0-blue.svg)
 ![unturned](https://img.shields.io/badge/Unturned-3.25.1.0-green.svg)
 
@@ -80,7 +80,6 @@ Forge.Wallet - это плагин для Unturned/RocketMod, который п�
 3. Кнопки:
    - `forge.close_wallet` - закрытие интерфейса
    - `forge.transfer_wallet` - выполнение перевода
-   - `forge.transfer_wallet_{steamid}` - кнопки выбора игрока (если используется список)
 
 ## Логирование транзакций
 
